@@ -1,4 +1,4 @@
-package com.sparse.array;
+package com.sparsearray;
 
 import java.awt.*;
 import java.io.*;
